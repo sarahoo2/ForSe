@@ -1,0 +1,17 @@
+#firstTitle{
+  background-color: white;
+  color:black;
+  text-align: center;
+  font-size: 25px;
+}
+#firstNav{
+  background-color: white;
+  color:black;
+  text-align: left;
+}
+
+#myContainer{
+  background-color: #E6E6FA;
+  color:black;
+  height: 700px;
+}
