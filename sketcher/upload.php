@@ -73,7 +73,6 @@ if(isset($_POST['Submit']))
 
 <style type="text/css">
 
-        }
     </style>
   </head>
 
